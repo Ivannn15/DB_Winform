@@ -1,0 +1,71 @@
+D:\C#\!Student\DB_Winform\DB_Winform\bin\Debug\DB_Winform.exe
+D:\C#\!Student\DB_Winform\DB_Winform\bin\Debug\DB_Winform.pdb
+D:\C#\!Student\DB_Winform\DB_Winform\obj\Debug\DB_Winform.Form1.resources
+D:\C#\!Student\DB_Winform\DB_Winform\obj\Debug\DB_Winform.Properties.Resources.resources
+D:\C#\!Student\DB_Winform\DB_Winform\obj\Debug\DB_Winform.csproj.GenerateResource.Cache
+D:\C#\!Student\DB_Winform\DB_Winform\obj\Debug\DB_Winform.exe
+D:\C#\!Student\DB_Winform\DB_Winform\obj\Debug\DB_Winform.pdb
+D:\C#\!Student\DB_Winform\DB_Winform\obj\Debug\DB_Winform.csprojResolveAssemblyReference.cache
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\bin\Debug\DB_Winform.exe
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\bin\Debug\DB_Winform.pdb
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\obj\Debug\DB_Winform.csprojAssemblyReference.cache
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\obj\Debug\DB_Winform.Form1.resources
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\obj\Debug\DB_Winform.Properties.Resources.resources
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\obj\Debug\DB_Winform.csproj.GenerateResource.cache
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\obj\Debug\DB_Winform.csproj.CoreCompileInputs.cache
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\obj\Debug\DB_Winform.exe
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform\DB_Winform\obj\Debug\DB_Winform.pdb
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\bin\Debug\DB_Winform.exe
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\bin\Debug\DB_Winform.pdb
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.Form1.resources
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.Properties.Resources.resources
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.csproj.GenerateResource.cache
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.csproj.CoreCompileInputs.cache
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.exe
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.pdb
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.Form2.resources
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\bin\Debug\DB_Winform.exe
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\bin\Debug\DB_Winform.pdb
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.csproj.AssemblyReference.cache
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.Form1.resources
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.Form2.resources
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.Properties.Resources.resources
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.csproj.GenerateResource.cache
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.csproj.CoreCompileInputs.cache
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.exe
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\Лабораторные по программированию\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.pdb
+C:\Users\79021\OneDrive\Рабочий стол\DB_Winform — копия (2)\DB_Winform\obj\Debug\DB_Winform.csproj.AssemblyReference.cache
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\bin\Debug\DB_Winform.exe
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\bin\Debug\DB_Winform.pdb
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.AssemblyReference.cache
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Form1.resources
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Form2.resources
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Properties.Resources.resources
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.GenerateResource.cache
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.CoreCompileInputs.cache
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.exe
+C:\Users\79021\OneDrive\Рабочий стол\Учебное\баннер (1)\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\bin\Debug\DB_Winform.exe.config
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\bin\Debug\DB_Winform.exe
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\bin\Debug\DB_Winform.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.AssemblyReference.cache
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Form1.resources
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Form2.resources
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Properties.Resources.resources
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.exe
+C:\Users\ivano\OneDrive\Рабочий стол\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\bin\Debug\DB_Winform.exe.config
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\bin\Debug\DB_Winform.exe
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\bin\Debug\DB_Winform.pdb
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.AssemblyReference.cache
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Form1.resources
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Form2.resources
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.Properties.Resources.resources
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.exe
+C:\Users\ivano\OneDrive\Рабочий стол\Работа\DB_Winform — копия (2) — копия\DB_Winform\obj\Debug\DB_Winform.pdb
